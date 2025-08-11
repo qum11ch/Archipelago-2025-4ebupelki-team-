@@ -53,7 +53,7 @@
    ```python
    from ultralytics import YOLO
 
-   model = YOLO("model.pt")  # или "yolo11n.pt"
+   model = YOLO("model.pt")
    results = model("path/to/image.jpg")
    results.show()
    ```
