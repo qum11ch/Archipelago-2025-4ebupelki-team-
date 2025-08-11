@@ -1,0 +1,10 @@
+#path: C:/Human_rescue/dataset
+#train: C:/Human_rescue/dataset/images/train
+#val: C:/Human_rescue/dataset/images/val  
+
+path: C:/Human_rescue/dataset_additional_training
+train: C:/Human_rescue/dataset_additional_training/images/train
+val: C:/Human_rescue/dataset_additional_training/images/val  
+
+nc: 1                 
+names: ['person'] 
